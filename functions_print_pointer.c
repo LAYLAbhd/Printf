@@ -10,7 +10,7 @@
   * @precision: Precision specification.
   * @size: Size specifier.
   * Return: Number of characters printed.
-  * Author: LAYLA BOUHAD 
+  * Author: LAYLA BOUHAD.
 */
 int print_pointer(va_list types, char buffer[],
 		int flags, int width, int precision, int size)
